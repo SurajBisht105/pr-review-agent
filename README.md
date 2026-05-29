@@ -251,7 +251,7 @@ pr-review-agent/
 ### Installation
 
 ```bash
-git clone https://github.com/vaishnavbhosale/pr-review-agent
+git clone https://github.com/SurajBisht105/pr-review-agent
 cd pr-review-agent
 
 python -m venv venv
@@ -400,6 +400,6 @@ Open a PR on the repository — the system reviews it automatically.
 
 ## Built by
 
-**Vaishnavv🩵**
+**Suraj Bisht🩵**
 
 Built as a production-style AI engineering project demonstrating multi-agent orchestration, AST-based RAG context engine, repo-aware LLM integration, structured output parsing, and automated evaluation of AI review quality.
